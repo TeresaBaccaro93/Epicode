@@ -1,0 +1,29 @@
+Individuo tre task:
+Task 1:Fare la spesa
+
+-Faccio la lista della spesa
+-Vado al supermercato
+-Prendo il carrello
+-Faccio la spesa
+-Vado in cassa
+-Attendo il mio turno
+-Pago la spesa
+-Ripongo la spesa nei sacchetti
+Task 2:Acquistare uno snack da un distributore automatico
+
+-Seleziono il prodotto che voglio acquistare
+-Inserisco la moneta
+-Premo ok
+-Prelevo lo snack
+Task 3:Studiare un concetto
+
+-Selezionare il concetto da studiare: ad esempio, una formula matematica o un argomento di storia.
+-Raccogliere materiali di studio: libri, appunti, video o risorse online.
+-Leggere o ascoltare le spiegazioni: comprendere le basi e i dettagli principali.
+-Prendere appunti: scrivere le parti più importanti o difficili.
+-Eseguire esercizi pratici: applicare il concetto con problemi o quiz.
+-Rivedere gli appunti e le risposte: verificare la comprensione.
+-Ripetere il concetto ad alta voce: rafforzare la memorizzazione.
+-Fare una sintesi: riassumere il concetto in poche parole.
+-Verificare la comprensione: spiegare il concetto a qualcun altro o testarsi.
+-Ripassare periodicamente: rivedere gli appunti nel tempo per consolidare.
