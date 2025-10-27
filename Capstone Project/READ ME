@@ -1,1 +1,39 @@
+📄 Introduzione – Report sulla Natalità in Italia
+Questo report Power BI analizza l’evoluzione della natalità in Italia dal 1999 al 2023, con particolare attenzione alle dinamiche demografiche a livello nazionale e regionale.
+ Attraverso grafici interattivi, mappe tematiche e indicatori sintetici, il report offre una visione chiara dei cambiamenti nella popolazione neonata, mettendo in luce tendenze, differenze territoriali e impatti di eventi chiave (es. crisi economiche, pandemia).
+L’obiettivo è fornire uno strumento utile per:
+monitorare l’andamento delle nascite nel tempo;
+confrontare territori (regioni);
+supportare analisi di contesto socio-demografico.
+offrire uno strumento di supporto decisionale per enti pubblici, ricercatori e policy maker.
+fornire una base informativa utile per ulteriori analisi demografiche, sociali o sanitarie.
+
+📚 Fonti dati
+I dati utilizzati nel report provengono da fonti ufficiali e pubblicamente accessibili, in particolare:
+https://demo.istat.it/app/?i=FE3&l=it:
+-Nati 1999-2024 per ogni regione italiana
+-Nati di genitori entrambi italiani e classe di età della madre dal 2020 al 2023 per ogni regione italiana
+-Nati di genitori entrambi italiani coniugati e non dal 2020 al 2023 per ogni regione italiana
+-Classifica dei nomi Maschili e femminili per Regione dal 1999 al 2024
+-Nati Italiani e Stranieri dal 2020 al 2023 per ogni regione italiana
+
+ 🛠️ Strumenti utilizzati
+🐍 Python – Pulizia e preparazione dei dati
+Prima di importare i dati in Power BI, è stata effettuata una fase di preprocessing con Python, utilizzando librerie come pandas,  datetime per garantire la qualità e la coerenza del dataset.
+Operazioni svolte:
+✅ Importazione dei dati da file CSV.
+✅ Controllo e gestione dei valori nulli, con rimozione o imputazione a seconda del contesto.
+✅ Formattazione della colonna "Anno" come oggetto datetime, per garantire corretta gestione temporale in Power BI.
+✅ Eliminazione delle colonne non rilevanti per l’analisi, al fine di ottimizzare il modello dati.
+✅ Esportazione del dataset pulito in formato .csv per l'integrazione con Power BI.
+
+🔍Contenuti principali del report
+Importato i CSV su Power Query, ho fatto join e append dei vari dati e ho caricato tutto su Power BI, facendo le varie relazioni e controllando la formattazione delle colonne,infine ho iniziato ad organizzare le DAX e a sviluppare il report.
+La prima pagina analizza il Trend nazionale delle nascite (1999–2023),le nascite per Regione.
+La seconda pagina la fascia di età delle madri che ha più figli in Italia.
+La terza pagina i Nomi più popolari in base al genere e in base alla Regione.
+La quarta pagina analizza le nascite tra Coniugati e Non Coniugati.
+La quinta pagina i Residenti Italiani e Stranieri.
+
+
 
