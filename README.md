@@ -1,10 +1,41 @@
-Il repository contiene dei progetti su:
--Excel in cui si analizzano dati sui fatturati delle aziende tra cui la vendita di alcuni prodotti di elettrodomestici,dati su hotel.
--SQL analizzo dati su adventurework e l'azienda ToysGroup
--Python analizzo dati sul Covid nel mondo, su AdventureWork, sul Titanic 
--Google studio con Portfolio Personale,un progetto sul database AdventureWork con l'andamento delle vendite,un progetto sullo share di ascolti di Sanremo dal 1987 al 2023
-L'analisi di Sanremo è stata fatta su due dataset uno scaricato da web con l'edizione e lo share https://commons.wikimedia.org/wiki/Data:Festival_di_Sanremo_Share.tab e l'altro con anno,partecipanti,presentatore e vincitore scaricato da un file fornitoci.
-Ho caricato i dati su Excel e ho pulito i dati su power query aggiungendo una colonna Data Anno per cambiare il formato numero dell'anno in formato data con la formula =DATA(annoriferimento;1;1).
-Dopo aver fatto le varie pulizie ho caricato tutto su Looker Studio e ho effettuato le varie analisi.
--Power BI con un file su olist store analizzando i ricavi, gli ordini dell'anno in corso e anno precedente,il tipo di pagamento,le recensioni,i prodotti più venduti e in quale paese si vende di più.
+📊 Data Analytics Projects Portfolio
+Benvenuto nel mio portfolio di progetti di Data Analytics, realizzati durante un percorso intensivo di formazione tecnica.
+
+📁Sommario
+-Progetti Excel
+-Progetti SQL
+-Progetti Python
+-Power BI
+-Looker Studio / Google Studio
+
+Progetti Excel
+Descrizione generale: analisi dei fatturati di aziende, incluse vendite di elettrodomestici e dati su hotel.
+Obiettivo: estrarre insight su fatturato, trend e performance per prodotto/settore.
+Dataset: fatturato aziende, vendite di elettrodomestici, dati sugli hotel.
+Strumenti: Excel, Power Query, eventuali script o modelli.
+Output: tabelle riepilogative, grafici, dashboard (Power Query + modello dati).
+
+Progetti SQL
+AdventureWorks: analisi dati aziendali e vendite.
+ToysGroup: analisi dati aziendali (es. vendite, inventario, performance regioni/prodotti).
+
+Progetti Python
+Descrizione generale: analisi dati su temi rilevanti.
+Covid nel mondo
+AdventureWorks (duplicazione di dataset, separato in uno script Python)
+Titanic
+
+Power BI
+File su Olist store: analisi di ricavi, ordini anno corrente vs anno precedente, tipo di pagamento, recensioni, prodotti più venduti, geografia delle vendite.
+
+Looker Studio / Google Studio
+Portfolio personale con progetti:
+AdventureWorks: dashboard sulle vendite
+Sanremo Share: analisi dello share di ascolti dal 1987 al 2023
+Dataset 1: share da file pubblico (Data: Festival di Sanremo Share)
+link: https://commons.wikimedia.org/wiki/Data:Festival_di_Sanremo_Share.tab
+Dataset 2: anno, partecipanti, presentatore, vincitore (fornito)
+
+
+
 
